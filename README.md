@@ -4,6 +4,20 @@
 
 This is a CMS-style blog site similar to a Wordpress site wherein developers can publish their blog posts and comment on other developer's posts as well.
 
+## Usage
+```
+npm i
+```
+``` 
+MySQL and source schema.sql
+```
+```
+npm run seed
+```
+```
+npm run start
+```
+
 ## User Story
 
 ```
