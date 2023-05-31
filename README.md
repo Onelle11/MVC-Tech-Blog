@@ -1,9 +1,11 @@
 # MVC-Tech-Blog
 
 ## Description
+
 This is a CMS-style blog site similar to a Wordpress site wherein developers can publish their blog posts and comment on other developer's posts as well.
 
 ## User Story
+
 ```
 AS A developer who writes about tech
 I WANT a CMS-style blog site
@@ -11,6 +13,7 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 ```
 
 ## Acceptance Criteria
+
 ```
 GIVEN a CMS-style blog site
 WHEN I visit the site for the first time
@@ -48,6 +51,8 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 ```
 
 ## Screenshot
+<img src="./images/MVC-TechBlog.png" alt="MVC-TechBlog screenshot">
 
 ## Github Repo
+
 https://github.com/Onelle11/MVC-Tech-Blog
